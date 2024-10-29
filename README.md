@@ -1,2 +1,6 @@
 # Hostel-Wifi-Login-Automation
-After a simple initial setup, you can automatically login to the hostel wifi by running this script, this can further be completely automated by running as a cronjob or launchd program. The setup is written in such a way that a person that is not very well versed with computers will also be able to easily configure it.
+
+# Installation Steps:
+### Run ```main.py``` to start the program, if you have not setup the program yet, it will ask you for your wifi credentials.
+### From the next time onwards, you can just run ```main.py``` to start the program.
+##### Note: for macos users, during setup you will be asked if you are on an ARM or Intel processor.
